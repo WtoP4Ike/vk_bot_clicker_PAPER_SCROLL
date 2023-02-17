@@ -18,8 +18,7 @@
 ### Подробный гайд
 Регаемся на [`сайте`]( https://www.pythonanywhere.com).<br>
 Нажимем на `consoles`.<br>
-Создаем консоль:<br>
-![image](https://user-images.githubusercontent.com/118076364/219703875-8039375a-72c7-4a2b-a1f9-5624a2c152d8.png)
+Создаем консоль тыкнув на BASH<br>
 <br> Пишем команды:<br>
 
     $ pip install paperscrollsdk
