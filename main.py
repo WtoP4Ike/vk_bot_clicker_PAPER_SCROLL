@@ -32,6 +32,7 @@ adma3=0
 adma2=0
 adma1=0
 
+#Гкод. Работает - главное.
 #АВТОРИЗАЦИЯ
 paperClient = PaperScroll(int(idmPS), tokenPS)
 paperApi = paperClient.getApi()
