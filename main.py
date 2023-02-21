@@ -55,7 +55,7 @@ def get_bal():
   otvet = otvet.replace(get_bal1,"")
   otvet = otvet.replace(get_bal2,"")
   otvet = otvet.replace("}]","")
-  bal=int(otvet)//1000-1000000000
+  bal=int(otvet)//1000
   print(bal)
 get_bal()
 def sender_user(id,text,peer):
